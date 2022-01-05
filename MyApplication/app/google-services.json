@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961199693810",
+    "project_id": "coba-restomobile",
+    "storage_bucket": "coba-restomobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961199693810:android:916f30fccbcd1887c9556b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961199693810-h67qs9m1j33n73t75ua7393k86vfpgv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYxRYqgWs0R3XX679DFsD9_po3uYtpaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961199693810-h67qs9m1j33n73t75ua7393k86vfpgv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
